@@ -1,0 +1,17 @@
+{
+  "name": "online-music-player",
+  "version": "1.0.0",
+  "description": "A simple online music player with playlist management and admin upload functionality.",
+  "main": "src/script.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
