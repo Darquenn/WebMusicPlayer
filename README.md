@@ -5,24 +5,23 @@ This project is an online music player built using HTML, CSS, and JavaScript. It
 ## Project Structure
 
 ```
-online-music-player
-├── src
-│   ├── admin
-│   │   ├── index.html       # Admin page for uploading new music
-│   │   ├── styles.css       # Styles specific to the admin page
-│   │   └── script.js        # JavaScript for admin interactions
-│   ├── playlists
-│   │   ├── playlist1.html   # HTML for the first playlist
-│   │   ├── playlist2.html   # HTML for the second playlist
-│   │   └── styles.css       # Styles for playlist pages
-│   ├── index.html           # Homepage of the music player
-│   ├── styles.css           # Global styles for the project
-│   └── script.js            # Main JavaScript for music player functionality
-├── assets
-│   ├── music                # Directory for music files
-│   └── images               # Directory for images (e.g., album covers)
-├── package.json             # npm configuration file
-└── README.md                # Project documentation
+src
+├── admin
+│   ├── index.html       # Admin page for uploading new music
+│   ├── styles.css       # Styles specific to the admin page
+│   └── script.js        # JavaScript for admin interactions
+├── playlists
+│   ├── playlist1.html   # HTML for the first playlist
+│   ├── playlist2.html   # HTML for the second playlist
+│   └── styles.css       # Styles for playlist pages
+├── index.html           # Homepage of the music player
+├── styles.css           # Global styles for the project
+└── script.js            # Main JavaScript for music player functionality
+assets
+├── music                # Directory for music files
+└── images               # Directory for images (e.g., album covers)
+package.json             # npm configuration file
+ README.md                # Project documentation
 ```
 
 ## Features
